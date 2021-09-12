@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BCP</string>
+    <string name="btn1">Siguiente</string>
+    <string name="btn2">No tengo clave de internet</string>
+    <string name="txt1">Ingresa a Banca Movil BCP</string>
+    <string name="txv2">Clave de Internet</string>
+
+
+</resources>
